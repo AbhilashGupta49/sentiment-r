@@ -1,0 +1,6 @@
+          actual
+predicted    neutral   positive
+  negative         1          0
+  positive         1          6
+
+		 Accuracy%: 75
