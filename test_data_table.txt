@@ -1,6 +1,9 @@
           actual
-predicted    neutral   positive
-  negative         1          0
-  positive         1          6
+predicted    negative   neutral   positive
+  negative         10         4          0
+  neutral           4         2          0
+  positive         10         6         14
 
-		 Accuracy%: 75
+		 Accuracy%: 52
+
+		 Conclusion: Product has generally POSITIVE reviews.
